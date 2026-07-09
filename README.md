@@ -395,9 +395,9 @@ See the **LICENSE** file for details.
 
 🏛️ Amrita Vishwa Vidyapeetham
 
-📧 Email: your-email@example.com
+📧 Email: praneshm801@gmail.com
 
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/P-R-A-N-E-S-H
 
 ---
 
