@@ -1,18 +1,14 @@
 # 🏥 Privacy-Preserving Neuro-Symbolic Edge System for Real-Time Health Monitoring
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch">
 <img src="https://img.shields.io/badge/Federated-Learning-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Neuro--Symbolic-AI-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Dataset-MIMIC--IV-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Research%20Project-brightgreen?style=for-the-badge">
-
 </p>
-
 <h3 align="center">
-
 Privacy-Preserving Federated Neuro-Symbolic AI for Early Sepsis Prediction in Intensive Care Units
 
 </h3>
