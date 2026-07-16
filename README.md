@@ -10,26 +10,18 @@
 </p>
 <h3 align="center">
 Privacy-Preserving Federated Neuro-Symbolic AI for Early Sepsis Prediction in Intensive Care Units
-
 </h3>
-
 ---
-
 # 📖 Overview
-
 Early detection of sepsis is one of the most challenging problems in intensive care medicine. Traditional centralized machine learning systems require transferring sensitive patient records to a central server, raising significant privacy concerns.
-
 This project proposes a **Privacy-Preserving Neuro-Symbolic Edge AI Framework** that combines:
-
 - 🧠 Transformer-based Deep Learning
 - 🌐 Federated Learning
 - 📚 Neuro-Symbolic Reasoning
 - 🎲 Diffusion Models for Data Augmentation
 - 🏥 Clinical Medical Rules
 - 🔒 Privacy-Preserving Distributed Training
-
 using the **MIMIC-IV ICU dataset** for real-time sepsis prediction.
-
 Instead of sharing patient records, hospitals collaboratively train a global AI model while keeping sensitive medical data locally.
 
 ---
