@@ -23,9 +23,7 @@ This project proposes a **Privacy-Preserving Neuro-Symbolic Edge AI Framework** 
 - 🔒 Privacy-Preserving Distributed Training
 using the **MIMIC-IV ICU dataset** for real-time sepsis prediction.
 Instead of sharing patient records, hospitals collaboratively train a global AI model while keeping sensitive medical data locally.
-
 ---
-
 # 🚀 Key Features
 
 - 🔒 Privacy-preserving federated learning
@@ -71,7 +69,6 @@ Instead of sharing patient records, hospitals collaboratively train a global AI 
                         ▼
           Real-Time Clinical Decision
 ```
-
 ---
 
 # ✨ Project Pipeline
